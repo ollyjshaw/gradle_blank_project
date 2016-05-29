@@ -4,6 +4,9 @@
 .idea
 build/
 
+# Don't ignore gradle-wrapper.jar, it's the gradle way!
+!gradle-wrapper.jar
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
